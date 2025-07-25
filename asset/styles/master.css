@@ -522,7 +522,7 @@ input[type="range"]:focus::-moz-range-thumb {
 /* desktop size */
 @media screen and (min-width: 992px) {
   #team {
-    display: none !important;
+    display: flex !important;
   }
   body > section:nth-of-type(1) {
     width: 30%;
