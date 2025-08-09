@@ -67,5 +67,5 @@ Check out the live version of this Generator:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Web-Template-18.git
+git clone https://github.com/parsa-farshah/CSS-Glassmorphism-Generator
 
